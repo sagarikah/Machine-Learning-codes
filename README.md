@@ -22,3 +22,6 @@
 - Discretization
 - Column Transformer
 - Pipeline
+
+
+![Created Badge](https://badges.pufler.dev/created/sagarikah/Machine-Learning-codes)  ![Created Badge](https://badges.pufler.dev/updated/sagarikah/Machine-Learning-codes)
