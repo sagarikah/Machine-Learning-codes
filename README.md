@@ -1,6 +1,6 @@
-# Contents
+## Contents
 
-## Algorithms
+### Algorithms
 - Simple Linear Regression
 - Multiple Linear Regression
 - Logistic Regression
@@ -10,7 +10,7 @@
 - K Means Clustering
 - Principal Component Analysis
 
-## Data Preprocessing
+### Data Preprocessing
 - Handling missing values
 - Outlier removal
 - Exploratory Data Analysis
