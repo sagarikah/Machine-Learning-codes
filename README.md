@@ -17,6 +17,7 @@
 - Decision Tree
 - K Nearest Neighbors
 - Support Vector Machine
+- Voting Ensemble
 - K Means Clustering
 - Principal Component Analysis
 
