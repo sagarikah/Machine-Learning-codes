@@ -18,6 +18,7 @@
 - K Nearest Neighbors
 - Support Vector Machine
 - Voting Ensemble
+- Bagging Ensemble
 - K Means Clustering
 - Principal Component Analysis
 
