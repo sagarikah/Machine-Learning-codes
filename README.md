@@ -19,6 +19,7 @@
 - Support Vector Machine
 - Voting Ensemble
 - Bagging Ensemble
+- Random Forest
 - K Means Clustering
 - Principal Component Analysis
 
